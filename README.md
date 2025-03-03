@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Vijayabharathi Murugan**, a graduate student at **Stony Brook University** and a "professional matrix multiplier" (data scientist).
+I'm **Vijayabharathi Murugan**, a graduate student at **Stony Brook University** and a **"professional matrix multiplier"** (data scientist).
 
 ### Currently, I'm:
 - 📚 Pursuing my **Master’s in Computer Science** at **Stony Brook University**
