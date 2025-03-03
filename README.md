@@ -11,3 +11,5 @@ Excited about all things **machine learning, artificial intelligence & computer 
 
 📧 **Email:** [vijaybharathi1998@hotmail.com](mailto:vijaybharathi1998@hotmail.com)
 🔗 **LinkedIn:** [vijayabharathi-murugan](https://linkedin.com/in/vijayabharathi-murugan)
+
+![](https://komarev.com/ghpvc/?username=mavleo96)
